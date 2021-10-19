@@ -28,8 +28,7 @@ All the libraries below are under [![PyPI license](https://img.shields.io/pypi/l
 
 ## Paid Angular UI Component Library
 
-* 💲 TODO
-* ...
+* 💲 [Syncfusion](https://www.syncfusion.com/angular-ui-components) - The Complete Angular Components Library
 
 ## Paid Angular Dashboard
 
