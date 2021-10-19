@@ -24,8 +24,7 @@ All the libraries below are under [![PyPI license](https://img.shields.io/pypi/l
 
 All the libraries below are under [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://en.wikipedia.org/wiki/MIT_License)
 
-* 🆓 TODO
-* ...
+* 🆓 [NGX-ADMIN](https://www.akveo.com/ngx-admin/) - Customizable admin dashboard template based on Angular 10+
 
 ## Paid Angular UI Component Library
 
