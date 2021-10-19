@@ -18,6 +18,7 @@ All the libraries below are under [![PyPI license](https://img.shields.io/pypi/l
 * 🆓 [NGX-UI](https://swimlane.github.io/ngx-ui/) - 🚀 Style and Component Library for Angular
 * 🆓 [TAIGA-UI](https://taiga-ui.dev/) - Powerful set of open source components for Angular
 * 🆓 [PRIME-NG](https://www.primefaces.org/primeng/) - The Most Powerful Open Source Angular UI Component Library
+* 🆓 [NEBULAR](https://akveo.github.io/nebular/) - Nebular is a customizable Angular UI library that contains 40+ UI components.
 
 ## Free Angular Dashboard
 
